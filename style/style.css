@@ -50,6 +50,7 @@ header > h1{
     padding-left: 10px;
     font-weight: normal;
     text-shadow: 3px 2px 0px rgba(0, 0, 0, 0.253);
+    
 }
 
 header > p{
@@ -59,6 +60,7 @@ header > p{
     text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.293);
     margin-bottom: 0px;
     padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 nav{
@@ -66,6 +68,7 @@ nav{
     padding-top: 30px;
     padding-bottom: 13px;
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.358);
+    padding-left: 20px;
 }
 
 nav > a{
