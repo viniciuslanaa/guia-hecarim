@@ -205,16 +205,6 @@ a#home{
     padding-bottom: 10px;
 }
 
-a#situaçoes{
-    text-decoration: none;
-    color: var(--cor3);
-
-}
-
-a#situaçoes:hover{
-    text-decoration: underline;
-}
-
 p > strong{
     color: var(--cor4);
     font-style: italic;
