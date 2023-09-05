@@ -68,7 +68,7 @@ nav{
     padding-top: 30px;
     padding-bottom: 13px;
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.358);
-    padding-left: 15px;
+    padding-left: 5px;
 }
 
 nav > a{
@@ -77,7 +77,6 @@ nav > a{
     padding: 10px;
     transition-duration: .3s;
     border-radius: 4px;
-    font-size: 0.9em;
 }
 
 nav > a:hover{
@@ -116,7 +115,9 @@ main h2{
     text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.079);
     text-decoration: underline;
     font-size: 2.2em;
+    padding-top: 10px;
 }
+
 
 main > article > p{
     font-family: var(--fontpadrao);
@@ -199,8 +200,9 @@ a#home{
     background-color: var(--cor5);
 }
 
-a#sobre{
-    background-color: var(--cor5);
+#sobre{
+    padding-top: 35px;
+    padding-bottom: 10px;
 }
 
 a#situaçoes{
